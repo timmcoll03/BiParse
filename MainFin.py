@@ -8,7 +8,7 @@ from newspaper import Article
 from bs4 import BeautifulSoup
 from boilerpipe.extract import Extractor
 import random
-
+ 
 
 # to get and format train data, article_parse.get_train_data(), get_unique_in(), format_training_data()
 
